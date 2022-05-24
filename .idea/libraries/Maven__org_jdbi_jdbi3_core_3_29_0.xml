@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.jdbi:jdbi3-core:3.29.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi3-core/3.29.0/jdbi3-core-3.29.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jaxb-runtime-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jakarta.xml.bind-api-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi3-core/3.29.0/jdbi3-core-3.29.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi3-core/3.29.0/jdbi3-core-3.29.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
