@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.TextField?>
-<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="478.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.hitelcalc.HitelController">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="478.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.hitelcalc.HitelController">
    <children>
       <Label layoutX="70.0" layoutY="89.0" text="Név:" />
       <Label alignment="TOP_LEFT" layoutX="70.0" layoutY="135.0" text="Felvett Összeg:" />
       <Label layoutX="70.0" layoutY="175.0" text="Hónapok száma:" />
       <Label layoutX="70.0" layoutY="219.0" text="Kamat:" />
-      <TextField layoutX="202.0" layoutY="85.0" />
+      <TextField fx:id="userneve" layoutX="202.0" layoutY="85.0" />
       <TextField fx:id="elso" layoutX="202.0" layoutY="131.0" />
       <TextField fx:id="masodik" layoutX="202.0" layoutY="171.0" />
       <TextField fx:id="harmadik" layoutX="202.0" layoutY="215.0" />

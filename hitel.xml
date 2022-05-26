@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hitelek>
+    <hitel_name>hitelek_felsorolva</hitel_name>
+    <hitels>
+        <hitel>
+            <nev>Mate</nev>
+            <torleszto_osszeg>15.0</torleszto_osszeg>
+            <teljes_osszeg>150.0</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>Mate</nev>
+            <torleszto_osszeg>166.44978</torleszto_osszeg>
+            <teljes_osszeg>1997.3975</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MM</nev>
+            <torleszto_osszeg>34.171738</torleszto_osszeg>
+            <teljes_osszeg>785.95</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MMM</nev>
+            <torleszto_osszeg>179.6869</torleszto_osszeg>
+            <teljes_osszeg>10781.215</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MM</nev>
+            <torleszto_osszeg>179.6869</torleszto_osszeg>
+            <teljes_osszeg>10781.215</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MMM</nev>
+            <torleszto_osszeg>179.6869</torleszto_osszeg>
+            <teljes_osszeg>10781.215</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MMMMMM</nev>
+            <torleszto_osszeg>833.3775</torleszto_osszeg>
+            <teljes_osszeg>102505.43</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>MM</nev>
+            <torleszto_osszeg>477.00937</torleszto_osszeg>
+            <teljes_osszeg>20988.412</teljes_osszeg>
+        </hitel>
+    </hitels>
+</hitelek>

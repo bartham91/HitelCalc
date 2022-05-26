@@ -1,17 +1,37 @@
 package com.example.hitelcalc;
-
+/*
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
-import jakarta.xml.bind.annotation.*;
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter
-@XmlRootElement
-@XmlAccessorType(XmlAccessType.FIELD)
+@NoArgsConstructor
+@AllArgsConstructor
 @Data
 public class Hitel {
 
+    private int szam;
+    private String nev;
+    private int honapokszama;
+}
+
+ */
+
+import jakarta.xml.bind.annotation.*;
+
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import lombok.Data;
+
+@XmlAccessorType(XmlAccessType.FIELD)
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+public class Hitel {
+
+    private String nev;
+    private float torleszto_osszeg;
+    private float teljes_osszeg;
+/*
     private String nev;
     private float osszeg;
     private String tipus;
@@ -49,4 +69,7 @@ public class Hitel {
     public void setIdotav(int idotav) {
         this.idotav = idotav;
     }
+
+
+ */
 }
