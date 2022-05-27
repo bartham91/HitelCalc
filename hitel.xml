@@ -42,5 +42,20 @@
             <torleszto_osszeg>477.00937</torleszto_osszeg>
             <teljes_osszeg>20988.412</teljes_osszeg>
         </hitel>
+        <hitel>
+            <nev>mm</nev>
+            <torleszto_osszeg>16.604479</torleszto_osszeg>
+            <teljes_osszeg>199.25375</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>Mate</nev>
+            <torleszto_osszeg>301.8898</torleszto_osszeg>
+            <teljes_osszeg>6641.576</teljes_osszeg>
+        </hitel>
+        <hitel>
+            <nev>Mateee</nev>
+            <torleszto_osszeg>117.14627</torleszto_osszeg>
+            <teljes_osszeg>234.29254</teljes_osszeg>
+        </hitel>
     </hitels>
 </hitelek>
